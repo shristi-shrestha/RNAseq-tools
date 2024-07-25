@@ -20,7 +20,7 @@
 
 * [DESeq2](http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) 
 * [EdgeR](https://www.bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)
-* [Normalization methods](https://hbctraining.github.io/DGE_workshop/lessons/02_DGE_count_normalization.html, https://ro-che.info/articles/2016-11-28-rna-seq-normalization) Great comparative description of different methods
+* [Normalization methods exlpained](https://hbctraining.github.io/DGE_workshop/lessons/02_DGE_count_normalization.html) Great comparative description of different methods. Also, by [Roman Cheplyaka](https://ro-che.info/articles/2016-11-28-rna-seq-normalization)
 
 
 
