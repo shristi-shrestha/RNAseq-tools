@@ -27,8 +27,7 @@
 ## Isoform analysis
 
 * [Sleuth](https://doi.org/10.1038/nmeth.4324)
-* [JunctionSeq]([10.1093/nar/gkw501](http://dx.doi.org/10.1093/nar/gkw501). 
-  http://hartleys.github.io/JunctionSeq/): Compute "differential usage" in exon level rather than gene to decipher differences of isoforms expression in various conditions.
+* [JunctionSeq](http://hartleys.github.io/JunctionSeq/): Compute "differential usage" in exon level rather than gene to decipher differences of isoforms expression in various conditions.
 
 
 
